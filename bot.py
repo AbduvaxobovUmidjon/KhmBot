@@ -44,98 +44,98 @@ def msg4(message):
 
 @bot.message_handler(commands=['2_23'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"2-23.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"2-23.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n2.23-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['3_23'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"3-23.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"3-23.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n3.23-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['4_23'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"4-23.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"4-23.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n4.23-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['5_23'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"5-23.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"5-23.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n5.23-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['6_23'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"6-23.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"6-23.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n6.23-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['7_23'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"7-23.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"7-23.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n7.23-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['1_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"1-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"1-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n1.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['2_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"2-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"2-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n2.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['3_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"3-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"3-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n3.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['4_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"4-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"4-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n4.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['5_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"5-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"5-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n5.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['6_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"6-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"6-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n6.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['7_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"7-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"7-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n7.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
 
 @bot.message_handler(commands=['8_22'])
 def msg4(message):
-        bot.send_photo(message.chat.id, photo = open(r"8-22.PNG", 'rb'))
+        bot.send_photo(message.chat.id, photo = open(r"8-22.png", 'rb'))
         user_first_name2 = str(message.chat.first_name)
         user_username2 = str(message.chat.username)
         requests.get(f'https://api.telegram.org/bot6510996618:AAGXGMt_ynBYuP20KD5W5hVrgLnnuxT9GHk/sendMessage?chat_id=@ikkinchisonkhmariza&text=Dars jadvali olindi📚✅\n8.22-guruh\nName:{user_first_name2}\nUsername:@{user_username2}', auth=('user', 'pass'))
